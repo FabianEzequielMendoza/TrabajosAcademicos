@@ -1,0 +1,11 @@
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\bin\Debug\WinFormsCetro.exe.config
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\bin\Debug\WinFormsCetro.exe
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\bin\Debug\WinFormsCetro.pdb
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.csprojAssemblyReference.cache
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.Form1.resources
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.Properties.Resources.resources
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.exe
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.pdb
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Debug\WinFormsCetro.Form2.resources

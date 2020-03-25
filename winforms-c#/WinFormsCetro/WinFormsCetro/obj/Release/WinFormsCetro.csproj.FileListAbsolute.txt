@@ -1,0 +1,11 @@
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\bin\Release\WinFormsCetro.exe.config
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\bin\Release\WinFormsCetro.exe
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\bin\Release\WinFormsCetro.pdb
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.csprojAssemblyReference.cache
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.Form1.resources
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.Form2.resources
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.Properties.Resources.resources
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.exe
+C:\Users\Fabian\source\repos\WinFormsCetro\WinFormsCetro\obj\Release\WinFormsCetro.pdb

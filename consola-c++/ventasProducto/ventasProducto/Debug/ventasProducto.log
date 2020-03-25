@@ -1,0 +1,3 @@
+﻿  ventasProducto.cpp
+C:\Users\Fabian\source\repos\ventasProducto\ventasProducto\ventasProducto.cpp(13): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  ventasProducto.vcxproj -> C:\Users\Fabian\source\repos\ventasProducto\Debug\ventasProducto.exe
