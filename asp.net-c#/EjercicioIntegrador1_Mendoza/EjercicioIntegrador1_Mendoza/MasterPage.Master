@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="EjercicioIntegrador1_Mendoza.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 1298px;
+        }
+        .auto-style4 {
+            width: 1298px;
+            text-align: center;
+            font-size: xx-large;
+        }
+        .auto-style5 {
+            width: 1298px;
+            text-align: center;
+        }
+        .auto-style6 {
+            text-align: center;
+        }
+        .auto-style7 {
+            font-size: large;
+        }
+        .auto-style8 {
+            width: 155px;
+        }
+        .auto-style9 {
+            width: 155px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style9">
+                        <asp:ImageButton ID="IBLogo" runat="server" CausesValidation="False" Height="117px" ImageUrl="~/imagenes/EscudoIsa.png" OnClick="IBLogo_Click" Width="124px" />
+                    </td>
+                    <td class="auto-style4"><strong>EJERCICIO INTEGRADOR N° 1</strong></td>
+                    <td class="auto-style6">
+                        <asp:LinkButton ID="LinkButton1" runat="server" CssClass="auto-style7" PostBackUrl="~/Login.aspx" CausesValidation="False">Cerrar sesión</asp:LinkButton>
+                        <br />
+                        <strong>
+                        <asp:Label ID="lblUsername" runat="server" CssClass="auto-style7" Font-Names="Georgia"></asp:Label>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td class="auto-style9">&nbsp;</td>
+                    <td class="auto-style5">
+                        <asp:ImageButton ID="IBCalcular" runat="server" ImageUrl="~/imagenes/Calcular.png" OnClick="IBCalcular_Click" Visible="False" CausesValidation="False" />
+                        <asp:ImageButton ID="IBArchivar" runat="server" ImageUrl="~/imagenes/Archivar.png" Visible="False" CausesValidation="False" OnClick="IBArchivar_Click" />
+                        <asp:ImageButton ID="IBSubir" runat="server" ImageUrl="~/imagenes/Subir.png" Visible="False" CausesValidation="False" OnClick="IBSubir_Click" />
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style8">&nbsp;</td>
+                    <td class="auto-style3">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>
